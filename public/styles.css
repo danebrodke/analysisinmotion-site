@@ -172,5 +172,6 @@ p:last-child { margin-bottom: 0; }
   .section { padding: 36px 24px; }
   h1 { font-size: 32px; }
   h2 { font-size: 20px; }
+  .nav { flex-wrap: wrap; row-gap: 6px; }
   .nav .links a { margin-left: 12px; }
 }
